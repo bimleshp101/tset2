@@ -10,6 +10,6 @@ public class FirstClass1 {
 	WebDriver driver = new FirefoxDriver();
 	
 	driver.get("https://www.google.co.in/");
-	Thread.sleep(5000);
+	Thread.sleep(4000);
 	}
 }
